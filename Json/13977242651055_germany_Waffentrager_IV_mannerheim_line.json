@@ -1,0 +1,365 @@
+{
+    "common": {
+        "datablock_1": 1, 
+        "datablock_battle_result": -1, 
+        "message": "ok", 
+        "parser": "WoT-Replay-To-JSON 0.8.11.2 by http://www.vbaddict.net", 
+        "replay_version": "0.9.0.0", 
+        "status": "ok"
+    }, 
+    "datablock_1": {
+        "battleType": 1, 
+        "clientVersionFromExe": "0, 9, 0, 0", 
+        "clientVersionFromXml": "World\u00a0of\u00a0Tanks v.0.9.0 #657", 
+        "dateTime": "17.04.2014 10:34:01", 
+        "gameplayID": "ctf", 
+        "mapDisplayName": "Arktida", 
+        "mapName": "38_mannerheim_line", 
+        "playerID": 511235710, 
+        "playerName": "mikecase", 
+        "playerVehicle": "germany-Waffentrager_IV", 
+        "regionCode": "EU", 
+        "roamingSettings": [
+            2, 
+            2, 
+            [
+                [
+                    2, 
+                    500000000, 
+                    999999999, 
+                    "EU"
+                ], 
+                [
+                    1, 
+                    1, 
+                    499999999, 
+                    "RU"
+                ], 
+                [
+                    3, 
+                    1000000000, 
+                    1499999999, 
+                    "NA"
+                ]
+            ], 
+            []
+        ], 
+        "serverName": "WOT EU2", 
+        "vehicles": {
+            "11505296": {
+                "clanAbbrev": "", 
+                "events": {}, 
+                "igrType": 0, 
+                "isAlive": true, 
+                "isTeamKiller": false, 
+                "name": "SAWT59", 
+                "team": 1, 
+                "vehicleType": "germany:Waffentrager_IV"
+            }, 
+            "11505297": {
+                "clanAbbrev": "", 
+                "events": {}, 
+                "igrType": 0, 
+                "isAlive": true, 
+                "isTeamKiller": false, 
+                "name": "Ludergubbi", 
+                "team": 2, 
+                "vehicleType": "ussr:Object268"
+            }, 
+            "11505298": {
+                "clanAbbrev": "", 
+                "events": {}, 
+                "igrType": 0, 
+                "isAlive": true, 
+                "isTeamKiller": false, 
+                "name": "Pudingg007", 
+                "team": 1, 
+                "vehicleType": "germany:Pro_Ag_A"
+            }, 
+            "11505299": {
+                "clanAbbrev": "V-D-D", 
+                "events": {}, 
+                "igrType": 0, 
+                "isAlive": true, 
+                "isTeamKiller": false, 
+                "name": "Corsaro99", 
+                "team": 1, 
+                "vehicleType": "france:Bat_Chatillon155_55"
+            }, 
+            "11505300": {
+                "clanAbbrev": "R_R_R", 
+                "events": {}, 
+                "igrType": 0, 
+                "isAlive": true, 
+                "isTeamKiller": false, 
+                "name": "Ondra1616", 
+                "team": 2, 
+                "vehicleType": "uk:GB24_Centurion_Mk3"
+            }, 
+            "11505301": {
+                "clanAbbrev": "-HOE-", 
+                "events": {}, 
+                "igrType": 0, 
+                "isAlive": true, 
+                "isTeamKiller": false, 
+                "name": "Pablito_PL", 
+                "team": 1, 
+                "vehicleType": "france:AMX50_Foch"
+            }, 
+            "11505302": {
+                "clanAbbrev": "_RUSS", 
+                "events": {}, 
+                "igrType": 0, 
+                "isAlive": true, 
+                "isTeamKiller": false, 
+                "name": "Shrek1970", 
+                "team": 2, 
+                "vehicleType": "france:AMX_M4_1945"
+            }, 
+            "11505303": {
+                "clanAbbrev": "", 
+                "events": {}, 
+                "igrType": 0, 
+                "isAlive": true, 
+                "isTeamKiller": false, 
+                "name": "Shacke", 
+                "team": 1, 
+                "vehicleType": "uk:GB23_Centurion"
+            }, 
+            "11505304": {
+                "clanAbbrev": "", 
+                "events": {}, 
+                "igrType": 0, 
+                "isAlive": true, 
+                "isTeamKiller": false, 
+                "name": "Skyrim_X", 
+                "team": 1, 
+                "vehicleType": "germany:E-100"
+            }, 
+            "11505305": {
+                "clanAbbrev": "H_S_E", 
+                "events": {}, 
+                "igrType": 0, 
+                "isAlive": true, 
+                "isTeamKiller": false, 
+                "name": "mixi86", 
+                "team": 1, 
+                "vehicleType": "uk:GB11_Caernarvon"
+            }, 
+            "11505306": {
+                "clanAbbrev": "HURKA", 
+                "events": {}, 
+                "igrType": 0, 
+                "isAlive": true, 
+                "isTeamKiller": false, 
+                "name": "Ilyennincs", 
+                "team": 1, 
+                "vehicleType": "germany:Indien_Panzer"
+            }, 
+            "11505307": {
+                "clanAbbrev": "H-A-C", 
+                "events": {}, 
+                "igrType": 0, 
+                "isAlive": true, 
+                "isTeamKiller": false, 
+                "name": "angrybogyo", 
+                "team": 2, 
+                "vehicleType": "ussr:KV4"
+            }, 
+            "11505308": {
+                "clanAbbrev": "", 
+                "events": {}, 
+                "igrType": 0, 
+                "isAlive": true, 
+                "isTeamKiller": false, 
+                "name": "D4I6A3S9", 
+                "team": 2, 
+                "vehicleType": "ussr:ST_I"
+            }, 
+            "11505309": {
+                "clanAbbrev": "RACDR", 
+                "events": {}, 
+                "igrType": 0, 
+                "isAlive": true, 
+                "isTeamKiller": false, 
+                "name": "kingraa1", 
+                "team": 2, 
+                "vehicleType": "usa:T69"
+            }, 
+            "11505310": {
+                "clanAbbrev": "1BPF", 
+                "events": {}, 
+                "igrType": 0, 
+                "isAlive": true, 
+                "isTeamKiller": false, 
+                "name": "grzygrzy", 
+                "team": 2, 
+                "vehicleType": "ussr:Object_212"
+            }, 
+            "11505311": {
+                "clanAbbrev": "", 
+                "events": {}, 
+                "igrType": 0, 
+                "isAlive": true, 
+                "isTeamKiller": false, 
+                "name": "a1maL", 
+                "team": 2, 
+                "vehicleType": "usa:T110E4"
+            }, 
+            "11505312": {
+                "clanAbbrev": "", 
+                "events": {}, 
+                "igrType": 0, 
+                "isAlive": true, 
+                "isTeamKiller": false, 
+                "name": "harkonen", 
+                "team": 2, 
+                "vehicleType": "ussr:IS-3"
+            }, 
+            "11505313": {
+                "clanAbbrev": "SL-BR", 
+                "events": {}, 
+                "igrType": 0, 
+                "isAlive": true, 
+                "isTeamKiller": false, 
+                "name": "xFrgYx", 
+                "team": 2, 
+                "vehicleType": "ussr:Object416"
+            }, 
+            "11505314": {
+                "clanAbbrev": "R_R_V", 
+                "events": {}, 
+                "igrType": 0, 
+                "isAlive": true, 
+                "isTeamKiller": false, 
+                "name": "mirix2", 
+                "team": 2, 
+                "vehicleType": "france:Lorraine40t"
+            }, 
+            "11505315": {
+                "clanAbbrev": "_RUSS", 
+                "events": {}, 
+                "igrType": 0, 
+                "isAlive": true, 
+                "isTeamKiller": false, 
+                "name": "MSlawa", 
+                "team": 2, 
+                "vehicleType": "ussr:T-44"
+            }, 
+            "11505316": {
+                "clanAbbrev": "", 
+                "events": {}, 
+                "igrType": 0, 
+                "isAlive": true, 
+                "isTeamKiller": false, 
+                "name": "samara29", 
+                "team": 1, 
+                "vehicleType": "germany:PzVIB_Tiger_II"
+            }, 
+            "11505317": {
+                "clanAbbrev": "", 
+                "events": {}, 
+                "igrType": 0, 
+                "isAlive": true, 
+                "isTeamKiller": false, 
+                "name": "Honza1331", 
+                "team": 1, 
+                "vehicleType": "usa:T110"
+            }, 
+            "11505318": {
+                "clanAbbrev": "", 
+                "events": {}, 
+                "igrType": 0, 
+                "isAlive": true, 
+                "isTeamKiller": false, 
+                "name": "MakZila", 
+                "team": 1, 
+                "vehicleType": "germany:JagdTiger"
+            }, 
+            "11505319": {
+                "clanAbbrev": "", 
+                "events": {}, 
+                "igrType": 0, 
+                "isAlive": true, 
+                "isTeamKiller": false, 
+                "name": "Hetzer_fr", 
+                "team": 2, 
+                "vehicleType": "usa:T92"
+            }, 
+            "11505320": {
+                "clanAbbrev": "LPPA", 
+                "events": {}, 
+                "igrType": 0, 
+                "isAlive": true, 
+                "isTeamKiller": false, 
+                "name": "luctanck", 
+                "team": 1, 
+                "vehicleType": "uk:GB23_Centurion"
+            }, 
+            "11505321": {
+                "clanAbbrev": "", 
+                "events": {}, 
+                "igrType": 0, 
+                "isAlive": true, 
+                "isTeamKiller": false, 
+                "name": "corprlpunishment", 
+                "team": 1, 
+                "vehicleType": "japan:ST_B1"
+            }, 
+            "11505322": {
+                "clanAbbrev": "", 
+                "events": {}, 
+                "igrType": 0, 
+                "isAlive": true, 
+                "isTeamKiller": false, 
+                "name": "space_beast", 
+                "team": 2, 
+                "vehicleType": "ussr:ISU-152"
+            }, 
+            "11505323": {
+                "clanAbbrev": "-HOE-", 
+                "events": {}, 
+                "igrType": 0, 
+                "isAlive": true, 
+                "isTeamKiller": false, 
+                "name": "janjanjan", 
+                "team": 1, 
+                "vehicleType": "usa:T92"
+            }, 
+            "11505324": {
+                "clanAbbrev": "", 
+                "events": {}, 
+                "igrType": 0, 
+                "isAlive": true, 
+                "isTeamKiller": false, 
+                "name": "Zed_CZ", 
+                "team": 1, 
+                "vehicleType": "germany:RhB_Waffentrager"
+            }, 
+            "11505325": {
+                "clanAbbrev": "R_R_F", 
+                "events": {}, 
+                "igrType": 0, 
+                "isAlive": true, 
+                "isTeamKiller": false, 
+                "name": "mikecase", 
+                "team": 2, 
+                "vehicleType": "germany:Waffentrager_IV"
+            }
+        }
+    }, 
+    "identify": {
+        "accountDBID": 511235710, 
+        "arenaCreateTime": 1397705641, 
+        "arenaUniqueID": 0, 
+        "countryid": 1, 
+        "error": "none", 
+        "error_details": "none", 
+        "internaluserID": "11505325", 
+        "mapName": "38_mannerheim_line", 
+        "mapid": 19, 
+        "playername": "mikecase", 
+        "replay_version": "0.9.0.0", 
+        "tankid": 0
+    }
+}
